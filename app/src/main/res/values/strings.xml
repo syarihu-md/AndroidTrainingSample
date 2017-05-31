@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTraining</string>
+    <string name="please_enter_text">テキストを入力してください</string>
+    <string name="search_gif">gif画像を検索</string>
+</resources>

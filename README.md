@@ -1,0 +1,2 @@
+# AndroidTrainingSample
+Android研修用のサンプルコード
